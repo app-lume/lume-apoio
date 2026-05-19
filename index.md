@@ -33,7 +33,6 @@ Sua contribuição, por menor que seja, ajuda a:
 50347912850
 ```
 
-(Pode ser CPF, email, telefone ou chave aleatória — você escolhe)
 
 ### Compartilhar
 
