@@ -30,7 +30,7 @@ Sua contribuição, por menor que seja, ajuda a:
 **Chave PIX:**
 
 ```
-INSIRA-SUA-CHAVE-PIX-AQUI
+50347912850
 ```
 
 (Pode ser CPF, email, telefone ou chave aleatória — você escolhe)
